@@ -1,0 +1,83 @@
+Android Jetpack component 
+Lazy 
+What is your biggest problem 
+
+
+
+Oops concept, Kotlin coroutines, heap memory, java basics
+lifecycle, service, broadcast, app publishing, room, MVVM, Android architecture, Map tracking
+what is service,activity, broadcast receiver, life cycle of activity and fragment.
+Oops Concept, Kotlin, Activity Life cycle, Mvvm Pattern
+Questions were stick to basics only.
+-Android components
+-oops concept
+-Threading
+-activity lifecycle
+-Fragment lifecycle
+-Singleton
+- Other Design Patterns
+- Jetpack components
+- Dagger 2
+- Coroutine
+- val vs var
+- Adbstact class vs interface
+- Pipelining
+QS were started with basic JAVA
+OOPs concept with example.
+Collection questions like vector or Hashmap.?
+What is threading , how to create it.
+Then I android basic questions like :
+Fragment life cycle .
+Communication b/w fragments
+Diff. B/w service and intent Service. On which thread it works?
+Push Notifications process , what is Notification channel?
+Storage process you follow ?
+Jet pack components- Navigation, Data binding concepts (cross questions).
+Then Kotlin questions:
+Diff b/w Var & Val ?
+Scope functions ?
+What is coroutines how it works?
+Inline functions ?
+Lamba expression ?
+What is enum ? what is Singleton class how to create it in Kotlin ?
+Prepare above questions well.
+This might help you more . Just be confident and take your time before answer.
+1) MVVM
+2) Core Java OOPS Concepts
+3) abstraction vs interface
+4) Agile Methodology
+Technical round questions
+1)How much would you rate yourself as Android developer out of 10?
+2)What are Android components ?
+3)Write down code to store data in shared preference?
+4)What are the ways to store data locally in Android app?
+5)Difference between shared preference and Sqlite database? when will you use SQLite and when Shared preferences?
+6)Activity life cycle?
+7)What is difference between activity and fragment ?
+8)What are services ? Types of services?
+9)Difference between those services?
+10)Explain MVVM architecture?
+11)What are the difficulties you faced during app development?
+12)Tell me about yourself?
+13)What do you know about material design?
+14)How did you handle the requirement of supporting different screen sizes?
+15)What have you done to achieve security in your app?
+16)What are broadcast receivers ?
+17)Integrating push notifications in Android app explain the steps
+Write the code to set title, icon, sound of notifications?
+18)How did you integrate the Facebook SDK in Android app?
+19)Difference between Volley and retrofit library? Which one would you prefer?
+20)How will you use Httpclient to make server requests?
+21)What are other ways than using 3rd party libraries for network calls?
+
+Managerial round questions
+
+1) What is the size of team you have worked with?
+2) How would you plan to complete a task in 7 days which requires 10 days?
+3) What have been your role in your team?
+4) Which development approach you used?
+5) Why did you leave your company?
+6) How would you plan a project?
+7) How many projects have you worked on?
+
+Access specifier public, private, protected, default
